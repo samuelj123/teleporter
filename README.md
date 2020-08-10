@@ -27,7 +27,7 @@ from anywhere, and you're ready to name your next work project folder!
 ## Installation
 ```
 git clone https://github.com/samuelj123/teleporter.git
-chmod +x teleporter/teleporter.sh
+chmod +x teleporter/teleport.sh
 mv teleporter/teleport.sh /home/$USER/.local/bin
 rm -rf teleporter
 ```
