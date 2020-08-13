@@ -24,10 +24,15 @@ t r wp
 ``` 
 from anywhere, and you're ready to name your next work project folder!
 
+Forgot what your shortcuts are? List them!
+``` 
+t l
+```
+
 ## Installation
 ```
 git clone https://github.com/samuelj123/teleporter.git
-chmod +x teleporter/teleport.sh
+chmod +x teleporter/teleporter.sh
 mv teleporter/teleport.sh /home/$USER/.local/bin
 rm -rf teleporter
 ```
